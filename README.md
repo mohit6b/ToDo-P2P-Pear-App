@@ -15,7 +15,6 @@ pear run --dev .
 ## Demo Video
 
 ### Demo Without Console
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xF-d9oacR0Q?si=k4QOKH-X-xgymgLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Demo Video](https://youtu.be/xF-d9oacR0Q)
 
-### Demo With Console
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME6jIPFaZ2A?si=yZBnHFlOQTGr_vVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Demo Video with console](https://youtu.be/ME6jIPFaZ2A)

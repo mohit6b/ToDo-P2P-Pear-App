@@ -40,6 +40,8 @@ build/Release
 
 # Dependency directories
 node_modules/
+local-storage/
+package-lock.json
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
@@ -91,6 +93,8 @@ out
 .nuxt
 dist
 
+.DS_Store
+
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and not Next.js
@@ -103,6 +107,7 @@ dist
 # vuepress v2.x temp and cache directory
 .temp
 .cache
+.DS_Store
 
 # vitepress build output
 **/.vitepress/dist
