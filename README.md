@@ -16,6 +16,9 @@ pear run --dev .
 
 #### Note: A directory or link needs to be specified with pear run, here `.` denotes the current Project directory.
 
+After the app runs successfully, you should see an output like below:
+![App Interface](./assets/asset-2.png)
+
 ## Demo Video
 
 ### Demo Without Console
