@@ -1,0 +1,35 @@
+{
+  "name": "stable",
+  "main": "index.html",
+  "pear": {
+    "name": "stable",
+    "type": "desktop",
+    "gui": {
+      "backgroundColor": "#1F2430",
+      "height": "540",
+      "width": "720"
+    }
+  },
+  "type": "module",
+  "license": "Apache-2.0",
+  "scripts": {
+    "dev": "pear run -d .",
+    "test": "brittle test/*.test.js"
+  },
+  "devDependencies": {
+    "brittle": "^3.0.0",
+    "pear-interface": "^1.0.0"
+  },
+  "dependencies": {
+    "autobase": "^7.2.3",
+    "b4a": "^1.6.7",
+    "blind-pairing": "^2.3.1",
+    "corestore": "^7.1.0",
+    "crypto": "^1.0.1",
+    "hyperbee": "^2.24.1",
+    "hypercore-crypto": "^3.5.0",
+    "hyperswarm": "^4.11.1",
+    "random-access-idb": "^1.2.2",
+    "random-access-memory": "^6.2.1"
+  }
+}
