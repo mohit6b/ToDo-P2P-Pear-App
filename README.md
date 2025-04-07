@@ -24,5 +24,5 @@ After the app runs successfully, you should see an output like below:
 ### Demo Without Console
 - [Demo Video](https://youtu.be/xF-d9oacR0Q)
 
-### Demo Without Console
+### Demo With Console
 - [Demo Video with console](https://youtu.be/ME6jIPFaZ2A)
